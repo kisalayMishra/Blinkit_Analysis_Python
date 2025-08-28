@@ -61,4 +61,4 @@ Blinkit, as a retail platform, wants to understand which factors significantly i
 ---
 
 ##  Screenshots  
-![Total Sales by Fat Content](images/https://github.com/kisalayMishra/Blinkit_Analysis_Python/blob/main/Total%20Sales%20by%20Fat%20Content.png)
+![Total Sales by Fat Content](https://github.com/kisalayMishra/Blinkit_Analysis_Python/blob/main/Total%20Sales%20by%20Fat%20Content.png)
