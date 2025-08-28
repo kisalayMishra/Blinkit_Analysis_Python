@@ -61,5 +61,4 @@ Blinkit, as a retail platform, wants to understand which factors significantly i
 ---
 
 ##  Screenshots  
-
-
+![Total Sales by Fat Content](images/Total_Sales_by_Fat_Content.png)
